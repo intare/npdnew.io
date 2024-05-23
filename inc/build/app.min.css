@@ -855,7 +855,7 @@ img.lazy{
     z-index:20
 }
 #page-loader img{
-    width:260px;
+    width:240px;
     height:218px
 }
 .fluid-width-video-wrapper{
@@ -4357,11 +4357,11 @@ img.fullwidth{
         height:50px
     }
     #logo-wrap{
-        top:20px;
+        top:10px;
         height:30px
     }
     #logo-wrap img,#logo-wrap svg{
-        width:115px;
+        width:90px;
         height:30px
     }
     #main-menu_toggler{
@@ -4971,6 +4971,9 @@ img.fullwidth{
 @media only screen and (min-width:480px) and (max-width:767px){
     #page-wrapper{
         padding-top:50px
+    }
+    #page-loader{
+        visibility: hidden; 
     }
     .container,.cw,.group-block-inner{
         width:440px!important
