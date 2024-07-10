@@ -1456,7 +1456,7 @@ img.lazy{
     width:216px;
     margin:0 22px 90px 0;
     padding:35px 10px 25px;
-    border-top:11px solid #c31a22;
+    border-top:11px solid #F5B315;
     text-align:center
 }
 .activities a.item-0{
@@ -1483,7 +1483,7 @@ img.lazy{
     background-color:#b3b3b3
 }
 .activities a.selected .title,.activities a:hover .title{
-    color:#c31a22
+    color:#F5B315
 }
 .activities .divider-2,.activities .divider-3,.activities .divider-4,.activities .divider-5{
     float:left;
@@ -1712,7 +1712,7 @@ a.mi-logo:hover{
     z-index:3;
     width:16px;
     height:16px;
-    background:#d03442;
+    background:#F5B315;
     margin-top:-8px;
     -webkit-transform:scale(0);
     -ms-transform:scale(0);
@@ -2233,7 +2233,7 @@ a.photo-item img.lazy{
 }
 #upload-wrap .error{
     background:0 0;
-    color:red
+    color:#F5B315
 }
 #upload-wrap .prog{
     position:absolute;
@@ -2245,7 +2245,7 @@ a.photo-item img.lazy{
     opacity:.5
 }
 #upload-wrap .bar{
-    background:#c31a22;
+    background:#F5B315;
     min-height:61px;
     width:0
 }
@@ -2265,7 +2265,7 @@ a.photo-item img.lazy{
     float:right;
     width:auto;
     background-position:right -422px;
-    background-color:#c31a22
+    background-color:#F5B315
 }
 #app-form a.submit-btn:hover{
     background-color:#191919
